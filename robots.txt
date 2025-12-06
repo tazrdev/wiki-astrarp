@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*?*q=*
+Disallow: /*?*ask=*
+Allow: /~gitbook/image?*
+Allow: /~gitbook/icon?*
+Allow: /favicon.ico
+Allow: /
+Sitemap: https://wiki.astrarp.net/astrarp/sitemap.xml

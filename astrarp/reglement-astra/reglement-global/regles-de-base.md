@@ -1,0 +1,59 @@
+# Règles de base
+
+<figure><img src="https://1103532016-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHAeWF9C5i1BoFU7up2Dj%2Fuploads%2FAEPjRHhVvN9UnJbZO9RT%2F9.png?alt=media&#x26;token=598928c5-0c96-4867-b50c-4379808afbc8" alt=""><figcaption></figcaption></figure>
+
+{% tabs %}
+{% tab title="Global 🎯" %}
+
+* Le **langage/vocal HRP** est <mark style="color:red;">interdit</mark>. Vous ne devez utiliser que des termes cohérents, comme si votre personnage était dans la vraie vie.
+* Les **insinuations HRP** sont <mark style="color:red;">interdites</mark>.  (*ex: Utiliser le mot "papillon" pour désigner un staff ou encore la phrase "je vais dans ma tête" pour dire que vous allez vous déconnecter).* Les insinuations ne sont pas des erreurs graves, mais ce sont des erreurs qui enlaidissent considérablement les scènes.
+* La **double vocale** est <mark style="color:red;">strictement interdite</mark>. Une fois en jeu, vous ne devez être connecté à aucun autre système de chat vocal que celui proposé IG (téléphone, radio, etc).
+* <mark style="color:red;">Aucun</mark> modificateur de voix n'est autorisé.
+* Parler en étant dans le **coma** est <mark style="color:red;">interdit</mark>.
+* Le racisme, l'homophobie, et tous les autres propos/gestes **à visée** **discriminatoire** sont <mark style="color:red;">interdits</mark>.
+* Le free punch, free shoot, free kill, car kill sont bien entendus <mark style="color:red;">interdits</mark>.
+* Le power gaming et le meta gaming sont <mark style="color:red;">interdits</mark>.
+* L'utilisation de glitchs/bugs est <mark style="color:red;">strictement interdit</mark>. Il est <mark style="color:blue;">obligatoire</mark> de les faire remonter via ticket Discord si jamais vous en rencontrez.
+* Le RP sexe et le RP viol sont <mark style="color:red;">strictement</mark> <mark style="color:red;">interdits</mark>.
+* Les arnaques sont <mark style="color:red;">interdites</mark>.
+* Votre **tenue** doit être **cohérente**. Ne vous baladez pas en sous-vêtements dans la rue, ne soyez pas pieds-nus, etc.
+* Porter un masque ou gilet par-balle **sans raison valable** est <mark style="color:red;">interdit</mark>.
+* **Changer de tenue** en pleine scène est <mark style="color:red;">interdit</mark>, sauf si vous faites ça de manière cohérente : sortir la tenue d'un sac/d'un véhicule et/ou avec un /me.
+* Les **/me** sont <mark style="color:blue;">autorisés seulement</mark> pour **décrire une action RP**.
+* Discerner l'*argent **propre*** de l'*argent **sale*** à l'œil nu est <mark style="color:red;">interdit</mark>.
+* **Sauvegarder ses biens** *(argent, armes, items, etc)* via un coffre ou un joueur pour ensuite les récupérer après un wipe est <mark style="color:red;">strictement interdit</mark>.
+* Spam une emote est <mark style="color:red;">interdit</mark>.
+  {% endtab %}
+
+{% tab title="Personnage 📝" %}
+
+* Le background de votre personnage <mark style="color:blue;">doit être cohérent</mark>.
+* Votre personnage doit être **inventé** de toutes pièces. Il est <mark style="color:red;">interdit</mark> de reprendre le nom et prénom de personnalités publiques.&#x20;
+* <mark style="color:red;">Interdiction</mark> de créer un personnage qui **existe déjà** ou qui a été **wipe** sur le serveur (sauf dérogation staff).
+  {% endtab %}
+
+{% tab title="Véhicule 🚗 " %}
+
+* Il est <mark style="color:blue;">obligatoire</mark> de **rouler de manière cohérente** : *ne pas rouler sur les trottoirs, ne pas rouler en plein centre ville à 200 km/h, etc*. Ces règles ne s'appliquent pas si vous êtes en course poursuite bien entendu.
+* Les **pits** sont <mark style="color:red;">interdits</mark>.
+* **Porter** un joueur **en conduisant** un véhicule est <mark style="color:red;">interdit</mark>.
+* **Porter** un joueur **en étant sur une moto** est <mark style="color:red;">interdit</mark> *(que vous soyez conducteur ou non)*.
+* S'il n'y a **plus de place** dans votre véhicule, vous ne pouvez porter qu'au <mark style="color:blue;">maximum 1 personne en plus</mark> *(en RP vous faites comme si elle était au milieu de la banquette arrière)*.
+* Pour les **4 roues** :&#x20;
+  * 1 pneu crevé = rouler max à 50km/h.
+  * 2 pneus crevés ou plus = arrêt du véhicule.&#x20;
+* Pour les **2 roues** : 1 pneu crevé ou plus = arrêt du véhicule.
+* <mark style="color:red;">Interdiction</mark> de **rouler sur les montagnes** (hors-sentiers) quelque soit le véhicule *(non les véhicules off-road ne sont pas faits pour ça)*.
+* <mark style="color:red;">Interdiction</mark> de rouler sur les sentiers off-road en montagn&#x65;**,** sauf si vous êtes en véhicule off-road.
+  {% endtab %}
+
+{% tab title="Jail ⛓️" %}
+
+* **Contester un jail** est <mark style="color:blue;">autorisé</mark> seulement si vous êtes sûr à 100% que vous n'êtes pas en tort ou que la sanction n'est pas du tout appropriée.
+* Le jail est un **environnement HRP**, il est donc <mark style="color:red;">strictement interdit</mark> de communiquer avec des personnes en RP (téléphone, radio, etc). La double vocale n'est toujours pas autorisée en jail sauf si c'est pour contester la sanction en BDA.
+  {% endtab %}
+  {% endtabs %}
+
+{% hint style="danger" %} <mark style="color:red;">**ON NE RÉPOND PAS AU HRP PAR LE HRP !**</mark>\
+Si vous rencontrez un joueur qui ne respecte pas le règlement, prenez son ID et un rec si possible, puis contactez un staff. Si vous rentrez dans son jeu et que vous faites vous aussi des actions HRP, vous risquez très certainement d'être sanctionné(e) aussi !
+{% endhint %}
