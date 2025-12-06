@@ -6,8 +6,6 @@
   * [🎓 Modération](valestia/moderation.md)
   * [☎️ Support](valestia/support.md)
   * [Guide Valestia](valestia/guide-valestia/README.md)
-    * [Boutique](valestia/guide-valestia/boutique.md)
-    * [Guide en jeu](valestia/guide-valestia/guide-en-jeu.md)
     * [Résolutions de Bugs](valestia/guide-valestia/resolutions-de-bugs.md)
     * [resolutions-de-bugs](valestia/guide-valestia/resolutions-de-bugs-1/README.md)
       * [Bug de Map](valestia/guide-valestia/resolutions-de-bugs-1/bug-de-map.md)
