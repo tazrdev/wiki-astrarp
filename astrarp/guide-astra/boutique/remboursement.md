@@ -9,6 +9,6 @@ Les **Coins** et autres **biens immatériels** achetés sur notre serveur sont c
 En passant commande, vous reconnaissez que ces biens sont **non remboursables** dans les cas suivants :\
 \
 \&#xNAN;**・Si vous changez d’avis après l’achat.**\
-**・Si vous êtes banni ou sanctionné sur le serveur.**\
-**・Si vous perdez l’accès à votre compte ou à vos biens en jeu.**\
-**・En cas d’erreur de votre part lors de l’achat ou de l’utilisation des tokens.**
+&#xNAN;**・Si vous êtes banni ou sanctionné sur le serveur.**\
+&#xNAN;**・Si vous perdez l’accès à votre compte ou à vos biens en jeu.**\
+&#xNAN;**・En cas d’erreur de votre part lors de l’achat ou de l’utilisation des tokens.**
